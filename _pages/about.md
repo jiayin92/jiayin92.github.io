@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://crd.lbl.gov/divisions/amcr/applied-mathematics-dept/scalable-solvers/members/postdoctoral-researchers/jia-yin/'>Postdoctoral Scholar, Lawrence Berkeley National Laboratory</a>
+subtitle: <a href='https://crd.lbl.gov/divisions/amcr/applied-mathematics-dept/scalable-solvers/members/postdoctoral-researchers/jia-yin/'a> Postdoctoral Scholar, Lawrence Berkeley National Laboratory</a>
 Tel: +1-9252852235
 
 profile:
